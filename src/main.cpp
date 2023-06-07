@@ -32,4 +32,6 @@ void loop() {
     Serial.print(",");
     Serial.println(pf);
 
+    //CEK
+
 }
