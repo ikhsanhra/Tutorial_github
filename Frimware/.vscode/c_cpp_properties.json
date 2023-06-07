@@ -8,9 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "e:/Tutorial Github/Tutorial_github/include",
-                "e:/Tutorial Github/Tutorial_github/src",
-                "e:/Tutorial Github/Tutorial_github/lib/PZEM/src",
+                "e:/Tutorial Github/Tutorial_github/Frimware/include",
+                "e:/Tutorial Github/Tutorial_github/Frimware/src",
+                "e:/Tutorial Github/Tutorial_github/Frimware/lib/SERVO/src",
+                "e:/Tutorial Github/Tutorial_github/Frimware/lib/PZEM/src",
                 "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -203,7 +204,6 @@
                 "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include",
                 "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                 "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/variants/esp32",
-                "e:/Tutorial Github/Tutorial_github/lib/SERVO/src",
                 "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                 "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                 "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
@@ -242,9 +242,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "e:/Tutorial Github/Tutorial_github/include",
-                    "e:/Tutorial Github/Tutorial_github/src",
-                    "e:/Tutorial Github/Tutorial_github/lib/PZEM/src",
+                    "e:/Tutorial Github/Tutorial_github/Frimware/include",
+                    "e:/Tutorial Github/Tutorial_github/Frimware/src",
+                    "e:/Tutorial Github/Tutorial_github/Frimware/lib/SERVO/src",
+                    "e:/Tutorial Github/Tutorial_github/Frimware/lib/PZEM/src",
                     "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -437,7 +438,6 @@
                     "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include",
                     "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                     "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/variants/esp32",
-                    "e:/Tutorial Github/Tutorial_github/lib/SERVO/src",
                     "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                     "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                     "C:/Users/Ikhsan/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
