@@ -3,7 +3,7 @@
 #include <Servo.h>
 
 Servo SERVO_ECD;
-Servo SERVO_TBW
+Servo SERVO_TBW;
 
 void Setup()
 {
